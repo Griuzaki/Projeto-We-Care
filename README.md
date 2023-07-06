@@ -5,7 +5,7 @@
 
 <section align="center">
 <img src="https://github.com/Griuzaki/Projeto-We-Care/blob/master/asset/desktop.jpg.png?raw=true" alt="logo-desktop" width="700px"/>
-<img src="https://github.com/Griuzaki/Projeto-We-Care/blob/master/asset/mobile.jpg.png?raw=true" alt="logo-mobile" width="150px" />
+<img src="https://github.com/Griuzaki/Projeto-We-Care/blob/master/asset/mobile.jpg.png?raw=true" alt="logo-mobile" height="300px" />
   
 </section>
 
